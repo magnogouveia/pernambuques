@@ -1,0 +1,14 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "pernambuques",
+  "description": "Reescreve um texto pronto na voz de Pernambuco, em dois registros: girias (fala da Região Metropolitana do Recife) e formal (norma culta com marca regional).",
+  "version": "1.1.0",
+  "author": {
+    "name": "Magno Gouveia",
+    "url": "https://github.com/magnogouveia"
+  },
+  "homepage": "https://github.com/magnogouveia/pernambuques",
+  "repository": "https://github.com/magnogouveia/pernambuques",
+  "license": "MIT",
+  "keywords": ["writing", "portuguese", "pt-br", "pernambuco", "recife", "dialect", "rewrite", "style"]
+}

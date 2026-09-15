@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-marketplace-manifest.json",
+  "name": "pernambuques",
+  "owner": {
+    "name": "Magno Gouveia",
+    "url": "https://github.com/magnogouveia"
+  },
+  "description": "A skill pernambuques, instalável como plugin do Claude Code.",
+  "plugins": [
+    {
+      "name": "pernambuques",
+      "source": "./",
+      "description": "Reescreve um texto pronto na voz de Pernambuco, em dois registros: girias (fala da Região Metropolitana do Recife) e formal (norma culta com marca regional).",
+      "license": "MIT",
+      "keywords": ["writing", "portuguese", "pt-br", "pernambuco", "recife", "dialect", "rewrite", "style"]
+    }
+  ]
+}
